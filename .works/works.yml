@@ -1,18 +1,21 @@
-company_name: "Awesome Podcasting"
+company_name: Awesome Podcasting
 content_table: true
 item_name: Item
 items_name: Items
 paging_mode: paging
 copyright_year: 2026
-name: "Awesome Podcasting"
-initial_prompt: "A curated directory of podcast hosting, recording, editing and monetization tools. Include products such as Buzzsprout, Transistor, Spotify for Creators, Libsyn, Captivate, RSS.com, Podbean, Riverside, Descript, Castopod, Podcastle, Simplecast, plus other notable commercial and open-source options. Categories: Podcast Hosting, Recording & Production, AI Editing, Monetization & Ads, Distribution & Analytics, Open Source. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations."
-providers:
-  ai: openrouter
-  search: tavily
-  pipeline: agent-pipeline
-  contentExtractor: local-content-extractor
-website_repo: "ever-works/awesome-podcasting-website"
-company_website: "https://podcasting.ever.works"
+name: Awesome Podcasting
+initial_prompt: "A curated directory of podcast hosting, recording, editing and
+  monetization tools. Include products such as Buzzsprout, Transistor, Spotify
+  for Creators, Libsyn, Captivate, RSS.com, Podbean, Riverside, Descript,
+  Castopod, Podcastle, Simplecast, plus other notable commercial and open-source
+  options. Categories: Podcast Hosting, Recording & Production, AI Editing,
+  Monetization & Ads, Distribution & Analytics, Open Source. For every item
+  capture the official website, a short factual description, pricing model
+  (free, freemium, paid, open source), deployment (cloud or self-hosted), key
+  features and integrations."
+website_repo: ever-works/awesome-podcasting-website
+company_website: https://podcasting.ever.works
 settings:
   categories_enabled: true
   companies_enabled: true
@@ -29,3 +32,5 @@ custom_menu:
   header: []
   footer: []
 version: 0.1.0
+activity_sync:
+  mode: pull
