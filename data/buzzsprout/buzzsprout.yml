@@ -1,0 +1,12 @@
+name: "Buzzsprout"
+description: "Podcast hosting platform for uploading, publishing, and tracking episodes. It offers automatic episode optimization, detailed analytics, and a free tier with limited hosting hours. Pricing is freemium with paid monthly plans."
+source_url: "https://www.buzzsprout.com/"
+category: "Podcast Hosting"
+tags:
+  - "podcast-hosting"
+  - "freemium"
+  - "free-plan"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.buzzsprout.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.buzzsprout.com/>\n"
+updated_at: "2026-11-21 10:57"

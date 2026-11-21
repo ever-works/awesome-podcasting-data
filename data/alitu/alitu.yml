@@ -1,0 +1,12 @@
+name: "Alitu"
+description: "Podcast production tool that automates editing, publishing, and hosting. It cleans up audio, adds music, and publishes to hosting platforms. Paid subscription with a free trial."
+source_url: "https://alitu.com/"
+category: "Recording & Production"
+tags:
+  - "recording-and-production"
+  - "paid"
+  - "automation"
+  - "hosting"
+icon_url: "https://icons.duckduckgo.com/ip3/alitu.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://alitu.com/>\n"
+updated_at: "2026-11-21 10:57"

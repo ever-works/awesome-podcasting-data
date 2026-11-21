@@ -1,0 +1,12 @@
+name: "Blubrry"
+description: "Podcast hosting and statistics service with WordPress integration via PowerPress plugin. It offers media hosting, private podcasting, and monetization tools. Paid plans based on storage."
+source_url: "https://www.blubrry.com/"
+category: "Podcast Hosting"
+tags:
+  - "podcast-hosting"
+  - "paid"
+  - "wordpress"
+  - "statistics"
+icon_url: "https://icons.duckduckgo.com/ip3/www.blubrry.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.blubrry.com/>\n"
+updated_at: "2026-11-21 10:57"

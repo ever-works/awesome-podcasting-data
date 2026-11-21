@@ -1,0 +1,12 @@
+name: "Podbean"
+description: "All-in-one podcast hosting, publishing, and monetization platform. It supports live streaming, advertising marketplace, and mobile apps. Freemium model with limited free storage and paid upgrades."
+source_url: "https://www.podbean.com/"
+category: "Podcast Hosting"
+tags:
+  - "podcast-hosting"
+  - "freemium"
+  - "monetization"
+  - "mobile"
+icon_url: "https://icons.duckduckgo.com/ip3/www.podbean.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.podbean.com/>\n"
+updated_at: "2026-11-21 10:57"

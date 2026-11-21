@@ -1,0 +1,12 @@
+name: "Podcastle"
+description: "AI-powered recording and editing platform for podcasts. It offers remote interviews, voice enhancement, and text-to-speech generation. Freemium with free and paid subscription tiers."
+source_url: "https://podcastle.ai/"
+category: "AI Editing"
+tags:
+  - "ai-editing"
+  - "recording-and-production"
+  - "freemium"
+  - "ai-powered"
+icon_url: "https://icons.duckduckgo.com/ip3/podcastle.ai.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://podcastle.ai/>\n"
+updated_at: "2026-11-21 10:57"

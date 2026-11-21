@@ -1,0 +1,12 @@
+name: "Captivate"
+description: "Podcast hosting focused on growth and monetization for creators. It offers dynamic ad insertion, team collaboration, and detailed analytics. Paid subscription with a free trial."
+source_url: "https://captivate.fm/"
+category: "Podcast Hosting"
+tags:
+  - "podcast-hosting"
+  - "paid"
+  - "monetization"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/captivate.fm.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://captivate.fm/>\n"
+updated_at: "2026-11-21 10:57"

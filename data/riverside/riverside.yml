@@ -1,0 +1,13 @@
+name: "Riverside"
+description: "Remote recording studio for podcasts and video interviews. It records local audio and video in up to 4K and provides live streaming and transcription. Paid plans with a limited free tier."
+source_url: "https://riverside.fm/"
+category: "Recording & Production"
+tags:
+  - "recording-and-production"
+  - "paid"
+  - "freemium"
+  - "remote-recording"
+  - "video"
+icon_url: "https://icons.duckduckgo.com/ip3/riverside.fm.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://riverside.fm/>\n"
+updated_at: "2026-11-21 10:57"

@@ -1,0 +1,11 @@
+name: "Spotify for Creators"
+description: "Free podcast hosting and distribution service integrated with Spotify. It allows recording, editing, and publishing directly to Spotify and other directories. No cost for basic hosting and distribution."
+source_url: "https://podcasters.spotify.com/"
+category: "Podcast Hosting"
+tags:
+  - "podcast-hosting"
+  - "free"
+  - "distribution"
+icon_url: "https://icons.duckduckgo.com/ip3/podcasters.spotify.com.ico"
+markdown: "## Pricing\n\nFree.\n\n## Links\n\n- Website: <https://podcasters.spotify.com/>\n"
+updated_at: "2026-11-21 10:57"

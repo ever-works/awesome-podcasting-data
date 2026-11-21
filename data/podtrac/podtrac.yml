@@ -1,0 +1,12 @@
+name: "Podtrac"
+description: "Free podcast measurement and analytics service for audience insights. It provides certified download statistics and demographic reporting. No cost for publishers participating in the measurement program."
+source_url: "https://www.podtrac.com/"
+category: "Distribution & Analytics"
+tags:
+  - "distribution-and-analytics"
+  - "free"
+  - "measurement"
+  - "statistics"
+icon_url: "https://icons.duckduckgo.com/ip3/www.podtrac.com.ico"
+markdown: "## Pricing\n\nFree.\n\n## Links\n\n- Website: <https://www.podtrac.com/>\n"
+updated_at: "2026-11-21 10:57"

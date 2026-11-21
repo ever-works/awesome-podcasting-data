@@ -1,0 +1,12 @@
+name: "Spreaker"
+description: "Podcast hosting, distribution, and monetization platform with a built-in recording studio. It supports live broadcasting and programmatic advertising. Freemium with paid tiers for more storage and features."
+source_url: "https://www.spreaker.com/"
+category: "Podcast Hosting"
+tags:
+  - "podcast-hosting"
+  - "freemium"
+  - "live-recording"
+  - "monetization"
+icon_url: "https://icons.duckduckgo.com/ip3/www.spreaker.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.spreaker.com/>\n"
+updated_at: "2026-11-21 10:57"

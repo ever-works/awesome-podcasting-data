@@ -1,0 +1,12 @@
+name: "Libsyn"
+description: "One of the oldest podcast hosting services, offering storage and distribution to major directories. It includes monetization options and detailed statistics. Paid plans based on monthly storage."
+source_url: "https://www.libsyn.com/"
+category: "Podcast Hosting"
+tags:
+  - "podcast-hosting"
+  - "paid"
+  - "monetization"
+  - "api"
+icon_url: "https://icons.duckduckgo.com/ip3/www.libsyn.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.libsyn.com/>\n"
+updated_at: "2026-11-21 10:57"

@@ -1,0 +1,12 @@
+name: "Hindenburg"
+description: "Professional audio editing software for journalists and podcasters. It offers voice profiling, loudness normalization, and direct publishing. Paid desktop application with a free trial."
+source_url: "https://hindenburg.com/"
+category: "Recording & Production"
+tags:
+  - "recording-and-production"
+  - "paid"
+  - "desktop"
+  - "audio-editing"
+icon_url: "https://icons.duckduckgo.com/ip3/hindenburg.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://hindenburg.com/>\n"
+updated_at: "2026-11-21 10:57"

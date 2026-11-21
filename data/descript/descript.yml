@@ -1,0 +1,12 @@
+name: "Descript"
+description: "Audio and video editor that transcribes media and allows editing by modifying text. It includes AI voice generation, multitrack editing, and screen recording. Freemium with paid creator and pro plans."
+source_url: "https://www.descript.com/"
+category: "AI Editing"
+tags:
+  - "ai-editing"
+  - "freemium"
+  - "transcription"
+  - "video-editing"
+icon_url: "https://icons.duckduckgo.com/ip3/www.descript.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.descript.com/>\n"
+updated_at: "2026-11-21 10:57"

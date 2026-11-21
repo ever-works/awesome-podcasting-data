@@ -1,0 +1,13 @@
+name: "Audacity"
+description: "Free, open-source, cross-platform audio recording and editing software. It supports multitrack editing, effects, and plugins for podcast production. Released under the GNU GPL."
+source_url: "https://www.audacityteam.org/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "free"
+  - "audio-editing"
+  - "desktop"
+  - "gpl"
+icon_url: "https://icons.duckduckgo.com/ip3/www.audacityteam.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.audacityteam.org/>\n- Repository: <https://github.com/audacity/audacity>\n\nLicense: GPL-2.0-or-later.\n"
+updated_at: "2026-11-21 10:57"

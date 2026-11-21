@@ -1,0 +1,12 @@
+name: "Adobe Podcast"
+description: "AI-enhanced audio recording and editing tool in the browser. It includes speech enhancement, microphone setup, and project editing. Currently free during its beta stage."
+source_url: "https://podcast.adobe.com/"
+category: "AI Editing"
+tags:
+  - "ai-editing"
+  - "free"
+  - "browser-based"
+  - "speech-enhancement"
+icon_url: "https://icons.duckduckgo.com/ip3/podcast.adobe.com.ico"
+markdown: "## Pricing\n\nFree.\n\n## Links\n\n- Website: <https://podcast.adobe.com/>\n"
+updated_at: "2026-11-21 10:57"

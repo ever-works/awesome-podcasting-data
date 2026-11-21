@@ -1,0 +1,12 @@
+name: "Castopod"
+description: "Open-source, self-hosted podcast hosting platform for independent creators. It supports RSS feed generation, multiple users, and statistics. Released under the MIT license."
+source_url: "https://castopod.org/"
+category: "Open Source"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "podcast-hosting"
+  - "mit"
+icon_url: "https://icons.duckduckgo.com/ip3/castopod.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://castopod.org/>\n- Repository: <https://github.com/Castopod/Castopod>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 10:57"

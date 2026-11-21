@@ -1,0 +1,12 @@
+name: "Transistor"
+description: "Podcast hosting for businesses and networks, supporting multiple shows under one account. It provides analytics, dynamic ad insertion, and private podcasting. Paid plans only with a free trial."
+source_url: "https://transistor.fm/"
+category: "Podcast Hosting"
+tags:
+  - "podcast-hosting"
+  - "paid"
+  - "api"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/transistor.fm.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://transistor.fm/>\n"
+updated_at: "2026-11-21 10:57"

@@ -1,0 +1,80 @@
+- id: podcast-hosting
+  name: "Podcast Hosting"
+- id: freemium
+  name: "Freemium"
+- id: free-plan
+  name: "Free Plan"
+- id: api
+  name: "API"
+- id: paid
+  name: "Paid"
+- id: enterprise
+  name: "Enterprise"
+- id: free
+  name: "Free"
+- id: distribution
+  name: "Distribution"
+- id: monetization
+  name: "Monetization"
+- id: free-trial
+  name: "Free Trial"
+- id: mobile
+  name: "Mobile"
+- id: recording-and-production
+  name: "Recording & Production"
+- id: remote-recording
+  name: "Remote Recording"
+- id: video
+  name: "Video"
+- id: ai-editing
+  name: "AI Editing"
+- id: transcription
+  name: "Transcription"
+- id: video-editing
+  name: "Video Editing"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: mit
+  name: "MIT"
+- id: ai-powered
+  name: "AI-Powered"
+- id: analytics
+  name: "Analytics"
+- id: monetization-and-ads
+  name: "Monetization & Ads"
+- id: dynamic-ads
+  name: "Dynamic Ads"
+- id: live-recording
+  name: "Live Recording"
+- id: wordpress
+  name: "WordPress"
+- id: statistics
+  name: "Statistics"
+- id: private-podcasting
+  name: "Private Podcasting"
+- id: audio-processing
+  name: "Audio Processing"
+- id: automation
+  name: "Automation"
+- id: hosting
+  name: "Hosting"
+- id: desktop
+  name: "Desktop"
+- id: audio-editing
+  name: "Audio Editing"
+- id: browser-based
+  name: "Browser-Based"
+- id: speech-enhancement
+  name: "Speech Enhancement"
+- id: distribution-and-analytics
+  name: "Distribution & Analytics"
+- id: measurement
+  name: "Measurement"
+- id: audiograms
+  name: "Audiograms"
+- id: marketing
+  name: "Marketing"
+- id: gpl
+  name: "GPL"

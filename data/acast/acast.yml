@@ -1,0 +1,12 @@
+name: "Acast"
+description: "Podcast hosting and monetization network connecting creators with advertisers. It offers dynamic ad insertion, listener analytics, and distribution. Freemium for hosting, revenue share for monetization."
+source_url: "https://acast.com/"
+category: "Podcast Hosting"
+tags:
+  - "podcast-hosting"
+  - "monetization-and-ads"
+  - "freemium"
+  - "dynamic-ads"
+icon_url: "https://icons.duckduckgo.com/ip3/acast.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://acast.com/>\n"
+updated_at: "2026-11-21 10:57"

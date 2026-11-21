@@ -1,0 +1,12 @@
+- id: podcast-hosting
+  name: "Podcast Hosting"
+- id: recording-and-production
+  name: "Recording & Production"
+- id: ai-editing
+  name: "AI Editing"
+- id: monetization-and-ads
+  name: "Monetization & Ads"
+- id: distribution-and-analytics
+  name: "Distribution & Analytics"
+- id: open-source
+  name: "Open Source"

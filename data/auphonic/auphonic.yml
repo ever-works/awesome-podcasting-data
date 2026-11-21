@@ -1,0 +1,12 @@
+name: "Auphonic"
+description: "Automatic audio post-production service for leveling, noise reduction, and encoding. It uses AI to balance loudness and clean up recordings. Freemium with monthly processing hours and paid plans."
+source_url: "https://auphonic.com/"
+category: "Recording & Production"
+tags:
+  - "recording-and-production"
+  - "ai-powered"
+  - "freemium"
+  - "audio-processing"
+icon_url: "https://icons.duckduckgo.com/ip3/auphonic.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://auphonic.com/>\n"
+updated_at: "2026-11-21 10:57"
